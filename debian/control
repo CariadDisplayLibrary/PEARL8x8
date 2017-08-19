@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: PEARL8x8.h
-Description: 
+Description: PEARL8x8 font for DisplayCore
